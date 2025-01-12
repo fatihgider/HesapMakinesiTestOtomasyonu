@@ -1,0 +1,11 @@
+# Giriş yapılır ve hesap makinesi açılır
+* CSV dosyasından kullanıcı adı ve şifre ile giriş yap
+* "Open Calculator" butonuna tıklanır
+
+# <sayi1> ve <sayi2> sayıları ile <operator> işlemi yapılır ve sonucun <result> olduğu kontrol edilir
+* <sayi1> sayısı yazılır
+* <operator> işlemine tıklanır
+* <sayi2> sayısı yazılır
+* "=" butonuna tıklanır
+* Sonuç <result> olmalıdır
+* "AC" butonuna tıklanır
